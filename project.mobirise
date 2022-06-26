@@ -39,7 +39,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site-06-23_1554",
+    "name": "IMERSÃO GOIÂNIA",
     "versionFirst": "5.6.8",
     "siteFonts": [
       {
@@ -66,14 +66,39 @@
     "imageResize": true,
     "uniqCompNum": 12,
     "versionPublish": "5.6.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "chatbutton": {
+      "phone": "+5521977034870",
+      "message": "",
+      "size": "65px",
+      "backgroundColor": "#e5ddd5",
+      "position": "left",
+      "popupMessage": "Olá!👋\n\nGostaria de falar com alguém sobre a imersão! 🔥\n\nEstamos online",
+      "showPopup": true,
+      "showOnIE": true,
+      "autoOpenTimeout": 5,
+      "headerColor": "#39847a",
+      "headerTitle": "👋 Equipe Starta Trader no WhatsApp!",
+      "placeholder": "Enviar mensagem",
+      "zIndex": 10,
+      "enabled": true
+    },
+    "favicon": false,
+    "mbrsiteDomain": "sfypjlfjg6",
+    "canonical-url": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "IMERSÃO GOIÂNIA",
+        "meta_descr": "DIA 09/07\nEVENTO PRESENCIAL\nGANHE DINHEIRO TODOS OS DIAS COM TRADE SEGUINDO UM MÉTODO COMPROVADO DE GANHOS CONSISTENTES - A MESMA METODOLOGIA CONSAGRADA QUE JÁ AJUDOU +5.000 PESSOAS [ENTRE INICIANTES E VETERANOS]\nDo dia 09/07 de julho em Goiânia, você vai aprender o passo a passo detalhado criado para iniciantes terem resultados em menos de 4 semanas, ganhando dinheiro com trade",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
